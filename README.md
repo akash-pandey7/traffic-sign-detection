@@ -53,7 +53,7 @@ Traffic_Sign_Detection/
 # ⚙️ Installation & Setup
 1. **Clone the repository** : 
 ```bash
-git clone [https://github.com/akash-pandey7/traffic-sign-detection.git](https://github.com/akash-pandey7/traffic-sign-detection.git)
+git clone https://github.com/akash-pandey7/traffic-sign-detection.git
 ```
 2. **Install Dependencies** : It is recommended to use a virtual environment.
 ```bash
